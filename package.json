@@ -1,0 +1,32 @@
+{
+  "name": "wow-validate",
+  "version": "0.0.1",
+  "description": "validate form submit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woshiajuana/wow-validate.git"
+  },
+  "keywords": [
+    "validate",
+    "node",
+    "express",
+    "koa2",
+    "egg",
+    "mini-program"
+  ],
+  "author": "Ajuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woshiajuana/wow-validate/issues"
+  },
+  "homepage": "https://github.com/Woshiajuana/wow-validate#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
