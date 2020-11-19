@@ -25,7 +25,10 @@
   },
   "homepage": "https://github.com/Woshiajuana/wow-validate#readme",
   "devDependencies": {
+    "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.0",
     "mocha": "^8.2.1",
+    "style-loader": "^2.0.0",
     "webpack": "^5.5.1",
     "webpack-cli": "^4.2.0"
   }
