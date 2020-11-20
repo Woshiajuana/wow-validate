@@ -1,3 +1,10 @@
 
 
-// import './index.ts'
+
+ctx.validateBody({
+    numIndex: [ ],
+    numSize: [ ],
+    keyword: [ ],
+    method: [ ],
+});
+
